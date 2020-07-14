@@ -2,4 +2,4 @@ data:
   env: config-single-prod
   user:
     username: config-single-prod-user
-    password: ppprod-user-pwd
+    password: prod-user-pwd
